@@ -1,4 +1,4 @@
-package specification.portcdm.eu.quickstart;
+//https://github.com/jakoblrssn/Project_Estonia.git
 
 // susanna.winther@hiq.se
 
